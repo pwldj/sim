@@ -2,683 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4466e03-d152-426e-971f-da135d3cca04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/media/guide/image/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/._bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/._bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/fonts/._glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/fonts/._glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/fonts/._glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/flash/._ZeroClipboard.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/flash/ZeroClipboard.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/._alipay.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/._alipayLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/._paypalLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/._weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/._weixinLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/alipay.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/alipayLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/paypalLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/images/weixinLogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/smarty_compiled/d33268791a6aaf0d44074543c2c68aec6b6ec91f.file.student.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lwpdyhhb.ac2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._DONATORS.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/.__config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._bootstrap-table.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/._package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/._bootstrap-table-locale-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/._bootstrap-table-locale-all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/._bootstrap-table.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/._bootstrap-table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/._bootstrap-table.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/._bootstrap-table.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/accent-neutralise/._bootstrap-table-accent-neutralise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/accent-neutralise/._bootstrap-table-accent-neutralise.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/angular/._bootstrap-table-angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/angular/._bootstrap-table-angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/cookie/._bootstrap-table-cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/cookie/._bootstrap-table-cookie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/editable/._bootstrap-table-editable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/editable/._bootstrap-table-editable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/export/._bootstrap-table-export.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/export/._bootstrap-table-export.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/filter-control/._bootstrap-table-filter-control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/filter-control/._bootstrap-table-filter-control.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/filter/._bootstrap-table-filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/filter/._bootstrap-table-filter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/flat-json/._bootstrap-table-flat-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/flat-json/._bootstrap-table-flat-json.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/group-by/._bootstrap-table-group-by.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/group-by/._bootstrap-table-group-by.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/group-by/._bootstrap-table-group-by.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/key-events/._bootstrap-table-key-events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/key-events/._bootstrap-table-key-events.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/mobile/._bootstrap-table-mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/mobile/._bootstrap-table-mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/multiple-search/._bootstrap-table-multiple-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/multiple-search/._bootstrap-table-multiple-search.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/multiple-sort/._bootstrap-table-multiple-sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/multiple-sort/._bootstrap-table-multiple-sort.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/natural-sorting/._bootstrap-table-natural-sorting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/natural-sorting/._bootstrap-table-natural-sorting.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-columns/._bootstrap-table-reorder-columns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-columns/._bootstrap-table-reorder-columns.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-rows/._bootstrap-table-reorder-rows.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-rows/._bootstrap-table-reorder-rows.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-rows/._bootstrap-table-reorder-rows.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/resizable/._bootstrap-table-resizable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/resizable/._bootstrap-table-resizable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/toolbar/._bootstrap-table-toolbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/toolbar/._bootstrap-table-toolbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-af-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-af-ZA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ar-SA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ar-SA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ca-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ca-ES.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-cs-CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-cs-CZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-da-DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-da-DK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-de-DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-de-DE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-el-GR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-el-GR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-en-US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-en-US.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-AR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-CR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-CR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-ES.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-MX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-MX.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-NI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-NI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-SP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-es-SP.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-et-EE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-et-EE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-fa-IR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-fa-IR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-fr-BE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-fr-BE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-fr-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-fr-FR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-hr-HR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-hr-HR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-hu-HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-hu-HU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-it-IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-it-IT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ja-JP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ja-JP.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ka-GE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ka-GE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ko-KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ko-KR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ms-MY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ms-MY.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-nb-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-nb-NO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-nl-NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-nl-NL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-pl-PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-pl-PL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-pt-BR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-pt-PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-pt-PT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ro-RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ro-RO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ru-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ru-RU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-sk-SK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-sk-SK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-sv-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-sv-SE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-th-TH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-th-TH.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-tr-TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-tr-TR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-uk-UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-uk-UA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ur-PK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-ur-PK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-vi-VN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-vi-VN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-zh-CN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/._bootstrap-table-zh-TW.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._documentation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._donate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._examples.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._extensions.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._getting-started.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/._sitemap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/._en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/._es.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/._zh-cn.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/._donate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/._footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/._column-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/._events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/._localizations.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/._methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/._table-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/column-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/localizations.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/documentation/table-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/donate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._align.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._basic.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._card-view.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._columns.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._format.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._hide-header.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._note.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._pagination.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._select.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._sort.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._style.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/._toolbar.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/align.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/basic.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/card-view.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/columns.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/format.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/hide-header.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/note.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/pagination.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/select.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/sort.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/style.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/examples/toolbar.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._cookie.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._editable.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._export.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._filter-control.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._filter.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._flat-json.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._group-by.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._key-events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._mobile.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._multiple-sort.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._natural-sorting.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._reorder-columns.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._reorder-rows.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._resizable.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/._toolbar.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/cookie.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/editable.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/export.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/filter-control.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/filter.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/flat-json.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/group-by.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/key-events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/mobile.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/multiple-sort.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/natural-sorting.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/reorder-columns.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/reorder-rows.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/resizable.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/extensions/toolbar.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/faq/._faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/faq/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/getting-started/._download.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/getting-started/._grunt.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/getting-started/._usage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/getting-started/._whats-include.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/getting-started/download.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/getting-started/grunt.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/getting-started/usage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/getting-started/whats-include.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/home/._feature.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/en/home/feature.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/._donate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/._footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/._column-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/._events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/._localizations.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/._methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/._table-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/column-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/localizations.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/documentation/table-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/donate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._align.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._basic.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._card-view.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._columns.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._format.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._hide-header.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._note.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._pagination.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._select.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._sort.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._style.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/._toolbar.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/align.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/basic.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/card-view.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/columns.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/format.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/hide-header.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/note.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/pagination.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/select.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/sort.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/style.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/examples/toolbar.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._cookie.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._editable.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._export.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._filter-control.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._filter.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._flat-json.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._group-by.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._key-events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._mobile.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._multiple-sort.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._natural-sorting.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._reorder-columns.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._reorder-rows.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._resizable.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/._toolbar.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/cookie.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/editable.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/export.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/filter-control.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/filter.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/flat-json.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/group-by.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/key-events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/mobile.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/multiple-sort.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/natural-sorting.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/reorder-columns.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/reorder-rows.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/resizable.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/extensions/toolbar.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/faq/._faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/faq/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/getting-started/._download.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/getting-started/._grunt.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/getting-started/._usage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/getting-started/._whats-include.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/getting-started/download.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/getting-started/grunt.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/getting-started/usage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/getting-started/whats-include.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/home/._feature.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/es/home/feature.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/._donate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/._footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/documentation/._column-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/documentation/._events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/documentation/._localizations.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/documentation/._methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/documentation/._table-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/documentation/column-options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/documentation/events.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/documentation/localizations.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/_i18n/zh-cn/documentation/methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/._bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/._bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/._bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/._bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/fonts/._glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/js/._bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/js/._bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/js/._npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/css/._docs.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/css/._sidenav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/css/._style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/css/docs.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/css/sidenav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/._common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/._customize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/._docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/._ie-emulation-modes-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/._ie10-viewport-bug-workaround.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/._ie8-responsive-file-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/._jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/._sidenav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/customize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/ie-emulation-modes-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/ie10-viewport-bug-workaround.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/ie8-responsive-file-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/js/sidenav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/._README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data1/._demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data1/demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data2/._demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data2/demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data3/._demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data3/demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data4/._demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data4/demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data5/._demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/data/data5/demo.response.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/._bootstrap-table-locale-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/._bootstrap-table-locale-all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/._bootstrap-table.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/._bootstrap-table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/._bootstrap-table.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/._bootstrap-table.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/bootstrap-table-locale-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/bootstrap-table-locale-all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/bootstrap-table.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/bootstrap-table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/bootstrap-table.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/bootstrap-table.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/accent-neutralise/._bootstrap-table-accent-neutralise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/accent-neutralise/._bootstrap-table-accent-neutralise.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/angular/._bootstrap-table-angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/angular/._bootstrap-table-angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/angular/bootstrap-table-angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/angular/bootstrap-table-angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/cookie/._bootstrap-table-cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/cookie/._bootstrap-table-cookie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/cookie/bootstrap-table-cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/cookie/bootstrap-table-cookie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/editable/._bootstrap-table-editable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/editable/._bootstrap-table-editable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/editable/bootstrap-table-editable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/editable/bootstrap-table-editable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/export/._bootstrap-table-export.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/export/._bootstrap-table-export.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/export/bootstrap-table-export.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/export/bootstrap-table-export.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/filter-control/._bootstrap-table-filter-control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/filter-control/._bootstrap-table-filter-control.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/filter-control/bootstrap-table-filter-control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/filter-control/bootstrap-table-filter-control.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/filter/._bootstrap-table-filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/filter/._bootstrap-table-filter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/filter/bootstrap-table-filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/filter/bootstrap-table-filter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/flat-json/._bootstrap-table-flat-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/flat-json/._bootstrap-table-flat-json.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/flat-json/bootstrap-table-flat-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/flat-json/bootstrap-table-flat-json.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/group-by/._bootstrap-table-group-by.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/group-by/._bootstrap-table-group-by.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/group-by/._bootstrap-table-group-by.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/group-by/bootstrap-table-group-by.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/group-by/bootstrap-table-group-by.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/group-by/bootstrap-table-group-by.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/key-events/._bootstrap-table-key-events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/key-events/._bootstrap-table-key-events.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/key-events/bootstrap-table-key-events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/key-events/bootstrap-table-key-events.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/mobile/._bootstrap-table-mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/mobile/._bootstrap-table-mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/mobile/bootstrap-table-mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/mobile/bootstrap-table-mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/multiple-search/._bootstrap-table-multiple-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/multiple-search/._bootstrap-table-multiple-search.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/multiple-search/bootstrap-table-multiple-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/multiple-search/bootstrap-table-multiple-search.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/multiple-sort/._bootstrap-table-multiple-sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/multiple-sort/._bootstrap-table-multiple-sort.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/natural-sorting/._bootstrap-table-natural-sorting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/natural-sorting/._bootstrap-table-natural-sorting.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-columns/._bootstrap-table-reorder-columns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-columns/._bootstrap-table-reorder-columns.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-rows/._bootstrap-table-reorder-rows.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-rows/._bootstrap-table-reorder-rows.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-rows/._bootstrap-table-reorder-rows.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/resizable/._bootstrap-table-resizable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/resizable/._bootstrap-table-resizable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/resizable/bootstrap-table-resizable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/resizable/bootstrap-table-resizable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/toolbar/._bootstrap-table-toolbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/toolbar/._bootstrap-table-toolbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/toolbar/bootstrap-table-toolbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/extensions/toolbar/bootstrap-table-toolbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-af-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-af-ZA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ar-SA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ar-SA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ca-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ca-ES.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-cs-CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-cs-CZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-da-DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-da-DK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-de-DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-de-DE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-el-GR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-el-GR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-en-US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-en-US.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-AR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-CR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-CR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-ES.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-MX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-MX.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-NI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-NI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-SP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-es-SP.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-et-EE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-et-EE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-fa-IR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-fa-IR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-fr-BE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-fr-BE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-fr-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-fr-FR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-hr-HR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-hr-HR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-hu-HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-hu-HU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-it-IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-it-IT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ja-JP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ja-JP.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ka-GE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ka-GE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ko-KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ko-KR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ms-MY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ms-MY.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-nb-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-nb-NO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-nl-NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-nl-NL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-pl-PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-pl-PL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-pt-BR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-pt-PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-pt-PT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ro-RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ro-RO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ru-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ru-RU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-sk-SK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-sk-SK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-sv-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-sv-SE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-th-TH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-th-TH.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-tr-TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-tr-TR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-uk-UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-uk-UA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ur-PK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-ur-PK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-vi-VN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-vi-VN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-zh-CN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/._bootstrap-table-zh-TW.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-af-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-af-ZA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ar-SA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ar-SA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ca-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ca-ES.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-cs-CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-cs-CZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-da-DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-da-DK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-de-DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-de-DE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-el-GR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-el-GR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-en-US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-en-US.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-AR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-CR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-CR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-ES.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-MX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-MX.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-NI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-NI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-SP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-es-SP.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-et-EE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-et-EE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-fa-IR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-fa-IR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-fr-BE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-fr-BE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-fr-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-fr-FR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-hr-HR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-hr-HR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-hu-HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-hu-HU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-it-IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-it-IT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ja-JP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ja-JP.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ka-GE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ka-GE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ko-KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ko-KR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ms-MY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ms-MY.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-nb-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-nb-NO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-nl-NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-nl-NL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-pl-PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-pl-PL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-pt-BR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-pt-PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-pt-PT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ro-RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ro-RO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ru-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ru-RU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-sk-SK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-sk-SK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-sv-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-sv-SE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-th-TH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-th-TH.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-tr-TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-tr-TR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-uk-UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-uk-UA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ur-PK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-ur-PK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-vi-VN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-vi-VN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-zh-CN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/dist/locale/bootstrap-table-zh-TW.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/documentation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/donate.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/examples.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/extensions.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/getting-started.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/classes/Controller/Student.php" afterPath="$PROJECT_DIR$/application/classes/Controller/Student.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/kohana-v3.3.5.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="kohana-v3.3.5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -884,6 +214,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -902,9 +233,22 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sim" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -988,35 +332,45 @@
       <workItem from="1462943291220" duration="1331000" />
       <workItem from="1462951015601" duration="2944000" />
       <workItem from="1462954025335" duration="2238000" />
-      <workItem from="1462959338613" duration="323000" />
+      <workItem from="1462959338613" duration="467000" />
+      <workItem from="1462959828206" duration="191000" />
     </task>
+    <task id="LOCAL-00001" summary="fixbug">
+      <created>1462959751539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462959751539</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23690000" />
+    <option name="totallyTimeSpent" value="24025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2835821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2867804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40241796" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40241796" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1029,6 +383,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixbug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixbug" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1064,9 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1462951290151" expanded="true" signature="123:175" placeholder="&lt;Files .*&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1315,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1323,9 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <marker date="1462951290151" expanded="true" signature="123:175" placeholder="&lt;Files .*&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
