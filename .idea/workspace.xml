@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4466e03-d152-426e-971f-da135d3cca04" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/media/guide/codebench/codebench_screenshot1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/media/guide/codebench/codebench_screenshot2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/media/guide/image/crop_form.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/media/guide/image/crop_orig.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/media/guide/image/crop_result.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/media/guide/image/dynamic-400.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/media/guide/image/dynamic-600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/media/guide/image/upload_form.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/media/guide/image/upload_result.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/tests/test_data/test_image" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/breadcrumbs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/content.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/ext_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/h2_line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/h3_line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/kohana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/lightbulb_48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/lines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/orange-tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/img/wrapper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/userguide/contrib-github-edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/userguide/contrib-github-fork.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/userguide/contrib-github-pull.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/404.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kohana-v3.3.5.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/smarty_compiled/39270c558a33cbe14e81a08aec222ee830d3b7f3.file.student.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/smarty_compiled/546066a693fb1a3e121518a35adfe1fd7414889b.file.student.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/smarty_compiled/6b0cd4cfa23021a1f7e478b5219531598f7a8558.file.student.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/classes/Baseclass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/classes/Controller/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/classes/Controller/Student.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/classes/Student.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/logs/2016/05/09.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/logs/2016/05/10.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/logs/2016/05/11.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/student.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install.php1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/classes/Auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/classes/Auth/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/classes/Kohana/Auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/classes/Kohana/Auth/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/config/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/config/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/guide/auth/config.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/guide/auth/driver/develop.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/guide/auth/driver/file.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/guide/auth/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/guide/auth/login.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/guide/auth/menu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/auth/koharness.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/Apc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/Apcu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/Arithmetic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/GarbageCollect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/Memcache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/MemcacheTag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/Sqlite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/Tagging.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Cache/Wincache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/HTTP/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/Apc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/Apcu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/Arithmetic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/GarbageCollect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/Memcache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/MemcacheTag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/Sqlite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/Tagging.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/Cache/Wincache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/classes/Kohana/HTTP/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/config/cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/config/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/guide/cache.usage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/guide/cache/config.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/guide/cache/examples.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/guide/cache/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/guide/cache/menu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/guide/cache/usage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/koharness.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/CacheBasicMethodsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/CacheTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/FileTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/SqliteTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/WincacheTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/arithmetic/ApcTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/arithmetic/ApcuTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/arithmetic/CacheArithmeticMethods.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/arithmetic/MemcacheTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/cache/request/client/CacheTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/cache/tests/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/ArrCallback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/AutoLinkEmails.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/DateSpan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/ExplodeLimit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/GruberURL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/LtrimDigits.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/MDDoBaseURL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/MDDoImageURL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/MDDoIncludeViews.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/StripNullBytes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/Transliterate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/URLSite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/UserFuncArray.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/ValidColor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Bench/ValidURL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Codebench.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Controller/Codebench.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/classes/Kohana/Codebench.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/config/codebench.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/config/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/guide/codebench/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/guide/codebench/menu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/koharness.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/codebench/views/codebench.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Config/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Config/Database/Reader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Config/Database/Writer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/DB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Expression.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/MySQL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/MySQL/Result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/MySQLi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/MySQLi/Result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/PDO.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Query.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Query/Builder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Query/Builder/Delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Query/Builder/Insert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Query/Builder/Join.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Query/Builder/Select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Query/Builder/Update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Query/Builder/Where.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Database/Result/Cached.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Config/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Config/Database/Reader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Config/Database/Writer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/DB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Expression.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/MySQL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/MySQL/Result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/MySQLi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/MySQLi/Result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/PDO.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Query.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Query/Builder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Query/Builder/Delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Query/Builder/Insert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Query/Builder/Join.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Query/Builder/Select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Query/Builder/Update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Query/Builder/Where.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Database/Result/Cached.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Model/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Kohana/Session/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Model/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/classes/Session/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/config/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/config/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/guide/database/config.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/guide/database/examples.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/guide/database/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/guide/database/menu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/guide/database/query.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/guide/database/query/builder.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/guide/database/query/parameterized.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/guide/database/results.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/database/koharness.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/classes/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/classes/Image/GD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/classes/Image/Imagick.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/classes/Kohana/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/classes/Kohana/Image/GD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/classes/Kohana/Image/Imagick.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/config/image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/config/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/guide/image/examples.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/guide/image/examples/crop.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/guide/image/examples/dynamic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/guide/image/examples/upload.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/guide/image/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/guide/image/menu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/guide/image/using.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/koharness.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/image/tests/kohana/ImageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/classes/Kohana/Minion/CLI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/classes/Kohana/Minion/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/classes/Kohana/Minion/Exception/InvalidTask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/classes/Kohana/Minion/Task.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/classes/Minion/CLI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/classes/Minion/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/classes/Minion/Exception/InvalidTask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/classes/Minion/Task.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/classes/Task/Help.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/config/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/guide/minion/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/guide/minion/menu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/guide/minion/setup.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/guide/minion/tasks.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/koharness.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/messages/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/minion" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/miniond" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/tests/minion/TaskTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/views/minion/error/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/views/minion/help/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/views/minion/help/list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/minion/views/minion/help/task.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/auth-schema-mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/auth-schema-postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Auth/ORM.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Kohana/Auth/ORM.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Kohana/ORM.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Kohana/ORM/Validation/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Model/Auth/Role.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Model/Auth/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Model/Auth/User/Token.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Model/Role.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Model/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/Model/User/Token.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/ORM.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/classes/ORM/Validation/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/config/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/examples.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/examples/simple.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/examples/validation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/filters.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/menu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/models.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/relationships.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/tutorials.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/upgrading.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/using.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/guide/orm/validation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/orm/koharness.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/classes/Controller/SmartyBenchmark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/classes/Controller/SmartyDemo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/classes/Kohana/Smarty/Helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/classes/Smarty/Helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/classes/Smarty/View.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/classes/View.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/config/simpletest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/config/smarty.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/simpletests/templates/test_absolute.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/simpletests/test_smarty3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/3.1.16_RELEASE_NOTES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/COPYING.lib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/SMARTY_2_BC_NOTES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/SMARTY_3.0_BC_NOTES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/SMARTY_3.1_NOTES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/change_log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/configs/test.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/plugins/cacheresource.apc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/plugins/cacheresource.memcache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/plugins/cacheresource.mysql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/plugins/resource.extendsall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/plugins/resource.mysql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/plugins/resource.mysqls.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/templates/footer.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/templates/header.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/demo/templates/index.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/Smarty.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/SmartyBC.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/debug.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/block.textformat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.counter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.cycle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.fetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.html_checkboxes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.html_image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.html_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.html_radios.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.html_select_date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.html_select_time.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.html_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.mailto.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/function.math.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifier.capitalize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifier.date_format.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifier.debug_print_var.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifier.escape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifier.regex_replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifier.replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifier.spacify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifier.truncate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.cat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.count_characters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.count_paragraphs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.count_sentences.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.count_words.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.escape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.from_charset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.indent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.lower.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.noprint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.string_format.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.strip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.strip_tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.to_charset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.unescape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.upper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/modifiercompiler.wordwrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/outputfilter.trimwhitespace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/shared.escape_special_chars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/shared.literal_compiler_param.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/shared.make_timestamp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/shared.mb_str_replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/shared.mb_unicode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/shared.mb_wordwrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/plugins/variablefilter.htmlspecialchars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_cacheresource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_cacheresource_custom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_cacheresource_keyvaluestore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_config_source.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_cacheresource_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_append.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_assign.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_break.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_call.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_capture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_config_load.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_continue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_eval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_extends.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_for.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_foreach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_if.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_include_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_insert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_ldelim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_nocache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_private_block_plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_private_function_plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_private_modifier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_private_object_block_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_private_object_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_private_print_expression.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_private_registered_block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_private_registered_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_private_special_variable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_rdelim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_setfilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compile_while.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_compilebase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_config_file_compiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_configfilelexer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_configfileparser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_filter_handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_function_call_handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_get_include_path.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_nocache_insert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_parsetree.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_resource_eval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_resource_extends.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_resource_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_resource_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_resource_registered.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_resource_stream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_resource_string.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_smartytemplatecompiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_templatebase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_templatelexer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_templateparser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_write_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_resource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_resource_custom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_resource_recompiled.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_resource_uncompiled.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/demo/benchmark.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/demo/forum_forum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/demo/forum_forum.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_demo.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_demo_include.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_demo_page.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_test/include.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_test/included_file.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_test/layout.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_test/mypage.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_test/myproject.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_test/test.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_test/test2.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/smarty/views/smarty_test/test_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/bootstrap_all_modules.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Kohana/Unittest/Database/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Kohana/Unittest/Helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Kohana/Unittest/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Kohana/Unittest/TestSuite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Kohana/Unittest/Tests.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Unittest/Database/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Unittest/Helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Unittest/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Unittest/TestSuite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/classes/Unittest/Tests.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/config/unittest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/config/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/example.phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/guide/unittest/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/guide/unittest/menu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/guide/unittest/mockobjects.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/guide/unittest/testing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/guide/unittest/testing_workflows.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/guide/unittest/troubleshooting.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/koharness.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unittest/tests.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Controller/Userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kodoc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kodoc/Class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kodoc/Markdown.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kodoc/Method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kodoc/Method/Param.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kodoc/Missing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kodoc/Property.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kohana/Controller/Userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kohana/Kodoc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kohana/Kodoc/Class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kohana/Kodoc/Markdown.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kohana/Kodoc/Method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kohana/Kodoc/Method/Param.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kohana/Kodoc/Missing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/classes/Kohana/Kodoc/Property.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/config/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/de-de/about.conventions.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/de-de/about.kohana.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/developers.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/userguide/adding.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/userguide/config.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/userguide/contributing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/userguide/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/userguide/markdown.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/userguide/menu.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/userguide/modules.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/userguide/using.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/guide/userguide/works.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/koharness.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/css/api.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/css/kodoc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/css/shCore.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/css/shThemeDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/css/shThemeKodoc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/js/kodoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/js/shBrushPhp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/js/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/media/guide/js/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/messages/userguide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/tests/KodocTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/tests/userguide/ControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/vendor/markdown/License.text" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/vendor/markdown/markdown.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/api/class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/api/menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/api/method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/api/tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/api/toc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/examples/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/examples/hello_world_error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/page-toc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/userguide/views/userguide/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/bootstrap-table.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/bootstrap-table-locale-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/bootstrap-table-locale-all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/bootstrap-table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/bootstrap-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/bootstrap-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/bootstrap-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/angular/bootstrap-table-angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/angular/bootstrap-table-angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/cookie/bootstrap-table-cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/cookie/bootstrap-table-cookie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/editable/bootstrap-table-editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/editable/bootstrap-table-editable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/export/bootstrap-table-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/export/bootstrap-table-export.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/filter-control/bootstrap-table-filter-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/filter-control/bootstrap-table-filter-control.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/filter/bootstrap-table-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/filter/bootstrap-table-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/flat-json/bootstrap-table-flat-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/flat-json/bootstrap-table-flat-json.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/group-by/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/group-by/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/group-by/bootstrap-table-group-by.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/key-events/bootstrap-table-key-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/key-events/bootstrap-table-key-events.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/mobile/bootstrap-table-mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/mobile/bootstrap-table-mobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/multiple-search/bootstrap-table-multiple-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/multiple-search/bootstrap-table-multiple-search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/resizable/bootstrap-table-resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/resizable/bootstrap-table-resizable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/toolbar/bootstrap-table-toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/extensions/toolbar/bootstrap-table-toolbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-af-ZA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-af-ZA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ar-SA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ar-SA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ca-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ca-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-cs-CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-cs-CZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-da-DK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-da-DK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-de-DE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-el-GR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-el-GR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-en-US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-en-US.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-AR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-CR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-CR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-MX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-MX.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-NI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-NI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-SP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-es-SP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-et-EE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-et-EE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-fa-IR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-fa-IR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-fr-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-fr-BE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-fr-FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-fr-FR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-hr-HR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-hr-HR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-hu-HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-hu-HU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-it-IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-it-IT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ja-JP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ka-GE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ka-GE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ko-KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ko-KR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ms-MY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ms-MY.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-nb-NO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-nb-NO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-nl-NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-nl-NL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-pl-PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-pl-PL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-pt-PT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ro-RO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ro-RO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ru-RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ru-RU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-sk-SK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-sk-SK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-sv-SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-sv-SE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-th-TH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-th-TH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-tr-TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-tr-TR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-uk-UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-uk-UA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ur-PK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-ur-PK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-vi-VN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-vi-VN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/dist/locale/bootstrap-table-zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/bootstrap-table-master/docs/assets/bootstrap/css/bootstrap-theme.css.map" />
+    </list>
+    <ignored path="kohana-v3.3.5.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kohana-v3.3.5" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/test.html" />
+        <option value="$PROJECT_DIR$/modules/database/config/database.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Welcome.php" />
+        <option value="$PROJECT_DIR$/application/views/welcome.html" />
+        <option value="$PROJECT_DIR$/application/classes/Model/student.php" />
+        <option value="$PROJECT_DIR$/application/classes/Model/Student.php" />
+        <option value="$PROJECT_DIR$/application/views/student.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/student.php" />
+        <option value="$PROJECT_DIR$/application/views/student.tpl" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/application/classes/Student.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Student.php" />
+        <option value="$PROJECT_DIR$/application/classes/Baseclass.php" />
+        <option value="$PROJECT_DIR$/application/bootstrap.php" />
+        <option value="$PROJECT_DIR$/application/views/404.html" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/404.php" />
+        <option value="$PROJECT_DIR$/application/views/404.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="13e38235-cbce-4b4f-b8c1-ef42c212c152" name="Unnamed" port="8080" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sim" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/cmd/git.exe" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jinha\Desktop\kohana-v3.3.5\modules" />
+      <recent name="C:\Users\jinha\Desktop\kohana-v3.3.5\resource" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xiaotian\Desktop\kohana\resource" />
+      <recent name="C:\Users\jinha\Desktop\kohana-v3.3.5\application\classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.Unnamed">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Unnamed">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4466e03-d152-426e-971f-da135d3cca04" name="Default" comment="" />
+      <created>1462851708008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1462851708008</updated>
+      <workItem from="1462851709109" duration="1440000" />
+      <workItem from="1462886698650" duration="1622000" />
+      <workItem from="1462890710385" duration="5185000" />
+      <workItem from="1462931753132" duration="7220000" />
+      <workItem from="1462940686255" duration="39000" />
+      <workItem from="1462941586947" duration="30000" />
+      <workItem from="1462941798172" duration="1318000" />
+      <workItem from="1462943291220" duration="1331000" />
+      <workItem from="1462951015601" duration="2944000" />
+      <workItem from="1462954025335" duration="2238000" />
+      <workItem from="1462956673937" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23620000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2835821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40241796" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Student.php" />
+    <entry file="file://$PROJECT_DIR$/application/classes/Student.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/student.tpl" />
+    <entry file="file://$PROJECT_DIR$/application/classes/Baseclass.php" />
+    <entry file="file://$PROJECT_DIR$/application/bootstrap.php" />
+    <entry file="file://$PROJECT_DIR$/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/modules/database/config/database.php" />
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Student.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/application/bootstrap.php" />
+    <entry file="file://$PROJECT_DIR$/modules/database/config/database.php" />
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Student.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/application/bootstrap.php" />
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Student.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/test.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/system/views/kohana/logo.php" />
+    <entry file="file://$PROJECT_DIR$/system/views/kohana/error.php" />
+    <entry file="file://$PROJECT_DIR$/system/views/kohana/generate_logo.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/test.php" />
+    <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Profiler.php" />
+    <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Request/Client/Internal.php" />
+    <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Response.php" />
+    <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Core.php" />
+    <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Request/Client.php" />
+    <entry file="file://$PROJECT_DIR$/resource/bootstrap-table-master/src/locale/README.md" />
+    <entry file="file://$PROJECT_DIR$/resource/bootstrap/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/system/classes/Kohana/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/404.php" />
+    <entry file="file://$PROJECT_DIR$/modules/smarty/views/demo/benchmark.tpl" />
+    <entry file="file://$PROJECT_DIR$/modules/database/classes/DB.php" />
+    <entry file="file://$PROJECT_DIR$/modules/database/classes/Kohana/Database.php" />
+    <entry file="file://$PROJECT_DIR$/modules/database/classes/Database/Query.php" />
+    <entry file="file://$PROJECT_DIR$/modules/database/classes/Kohana/DB.php" />
+    <entry file="file://$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_data.php" />
+    <entry file="file://$PROJECT_DIR$/modules/smarty/vendor/smarty/libs/sysplugins/smarty_internal_templatebase.php" />
+    <entry file="file://$PROJECT_DIR$/modules/database/classes/Kohana/Database/Query.php" />
+    <entry file="file://$PROJECT_DIR$/modules/database/config/database.php" />
+    <entry file="file://$PROJECT_DIR$/application/classes/Student.php" />
+    <entry file="file://$PROJECT_DIR$/application/classes/Baseclass.php" />
+    <entry file="file://$PROJECT_DIR$/application/logs/2016/05/09.php" />
+    <entry file="file://$PROJECT_DIR$/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/install.php1" />
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Student.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/student.tpl" />
+    <entry file="file://$PROJECT_DIR$/application/bootstrap.php" />
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/404.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/404.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+  </component>
+</project>
