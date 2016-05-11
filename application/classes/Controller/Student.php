@@ -8,7 +8,7 @@ class Controller_student extends Controller_Template {
 //		$sql = 'select * from student';
 //		$result = DB::query(Database::SELECT,$sql)->execute()->as_array();
 //		print_r($result);
-
+        echo 'asdf';
 	}
 
 } // End Welcome
