@@ -13,7 +13,7 @@
     <script src="resource/bootstrap-table-master/src/extensions/export/bootstrap-table-export.js"></script>
 </head>
 <body>
-    <table id="table"
+    <table id="table1"
            data-toggle="table"
            data-show-export="true"
            data-pagination="true"
@@ -21,8 +21,8 @@
            data-toolbar="#toolbar">
         <thead>
         <tr>
-            <th data-field="name">学号</th>
-            <th data-field="begin">姓名</th>
+            <th data-field="studentId1">学号</th>
+            <th data-field="name1">姓名</th>
         </tr>
         </thead>
         <body>
@@ -36,5 +36,43 @@
         <{/foreach}>
         </body>
     </table>
+
+    <table id="table"
+           data-toggle="table"
+           data-show-export="true"
+           data-pagination="true"
+           data-click-to-select="true"
+           data-toolbar="#toolbar">
+        <thead>
+        <tr>
+            <th data-field="studentId">学号</th>
+            <th data-field="name">姓名</th>
+        </tr>
+        </thead>
+    </table>
+<script>
+    var $table = $('#table');
+    $(function () {
+        $.ajax({
+                url: "/student/getalluser",
+            success: successCallback,
+            error: errorCallback
+        });
+    });
+    function successCallback(json){
+        var rows=[];
+        json = $.parseJSON(json);
+        for(var i=0;i<json.length;i++){
+            rows.push({
+                name:json[i].name,
+                studentId:json[i].studentId
+            });
+        }
+        $table.bootstrapTable('load', json);
+    }
+    function errorCallback() {
+        alert("查询出现错误: ");
+    }
+</script>
 </body>
 </html>
