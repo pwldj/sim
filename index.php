@@ -7,7 +7,7 @@
  * @link http://kohanaframework.org/guide/about.install#application
  */
 $application = 'application';
-echo "hahh";
+//echo "hahh";
 
 /**
  * The directory in which your modules are located.
