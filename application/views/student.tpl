@@ -13,6 +13,7 @@
     <script src="resource/bootstrap-table-master/src/extensions/export/bootstrap-table-export.js"></script>
 </head>
 <body>
+{*<a href="http://www.baidu.com">click</a>*}
     <table id="table1"
            data-toggle="table"
            data-show-export="true"
