@@ -60,14 +60,7 @@
         });
     });
     function successCallback(json){
-        var rows=[];
         json = $.parseJSON(json);
-        for(var i=0;i<json.length;i++){
-            rows.push({
-                name:json[i].name,
-                studentId:json[i].studentId
-            });
-        }
         $table.bootstrapTable('load', json);
     }
     function errorCallback() {
