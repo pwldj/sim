@@ -402,4 +402,70 @@ where student.majorId=major.majorId and major.collegeId=college.collegeId")->exe
     
     
     
+    
+    //yanse
+    
+
+    public static function selectById($table, $id) {
+        $query = DB::select()
+            ->from($table)
+            ->where($table.'Id', '=', $id)
+            ->execute()
+            ->as_array();
+        return $query;
+    }
+
+    public static function fetchOne($table, $key, $val) {
+        $query = DB::select()
+            ->from($table)
+            ->where($key, '=', $val)
+            ->execute()
+            ->as_array();
+        return $query;
+    }
+
+    public static function fetchAll($table, $key, $val, $order) {
+        $query = DB::select()
+            ->from($table)
+            ->where($key, '=', $val)
+            ->order_by($order,'asc')
+            ->execute()
+            ->as_array();
+        return $query;
+    }
+
+    public static function insert($table, $data) {
+        $key = array_keys($data);
+        $index = 0;
+        foreach ($key as $k) {
+            $key[$index] = $table.$k;
+            $index++;
+        }
+        // insert 插入过程
+        $query = DB::insert($table, $key)
+            ->values($data)
+            ->execute();
+        // 返回主键id 影响条数
+        return $query;
+    }
+
+    public static function updateById($table, $id, $dataArray) {
+        foreach ($dataArray as $key => $val) {
+            $dataArray[$table.$key] = $val;
+            unset($dataArray[$key]);
+        }
+        $query = DB::update($table)
+            ->set($dataArray)
+            ->where($table.'Id', '=', $id)
+            ->execute();
+        return $query;
+    }
+
+    public static function deleteById($table, $id) {
+        return DB::delete()
+            ->table($table)
+            ->where($table.'Id', '=', $id)
+            ->execute();
+    }
+    
 }

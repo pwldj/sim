@@ -27,4 +27,7 @@ class Controller_Admin extends Controller_Template
     public function action_adminstudent(){   
         $this->template->content = View::factory('admin/AdminStudent.tpl');
     }
+    public function action_adminscore(){
+        $this->template->content = View::factory('admin/AdminScore.tpl');
+    }
 }

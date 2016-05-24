@@ -194,4 +194,13 @@ class Controller_Adminapi extends Controller{
         }
         exit;
     }
+
+
+    public function action_getall()
+    {
+        $data=$this->request->post();
+        $arr = DB::query(Database::SELECT,$data['sql'])->execute()->as_array();
+        echo json_encode($arr);//建议这样写,避免0或其他情况.
+        exit;
+    }
 }

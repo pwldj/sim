@@ -108,5 +108,65 @@ class Controller_StudentApi extends Controller {
         }
         exit;
     }
-    
+
+
+    public function action_getallscore()
+    {
+        $id=$_COOKIE['id'];
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            $sql = 'select student.name as Sname,course.name as Cname,course.courseId,score,credit,property,direction,college.name as coname from student,course,courseselection_stu,college
+                        where course.courseId=courseselection_stu.courseId and student.studentId=courseselection_stu.studentId
+                        and student.studentId='.$id. ' and college.collegeId=course.collegeId';
+            $arr = DB::query(Database::SELECT, $sql)->execute()->as_array();
+            echo json_encode($arr);//建议这样写,避免0或其他情况.
+            exit;
+        }
+    }
+    public function action_getyearscore()
+    {
+        $id=$_COOKIE['id'];
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            $data = $this->request->post();
+            $sql = 'select student.name as Sname,course.name as Cname,course.courseId,score,credit,property,direction,college.name as coname from student,course,courseselection_stu,college
+                        where course.courseId=courseselection_stu.courseId and student.studentId=courseselection_stu.studentId
+                        and student.studentId='.$id. ' and college.collegeId=course.collegeId and year(testtime) ='.$data['yeartext'];
+
+            $arr = DB::query(Database::SELECT, $sql)->execute()->as_array();
+            echo json_encode($arr);//建议这样写,避免0或其他情况.
+            exit;
+        }
+    }
+
+
+    public function action_geteachcourse()
+    {
+
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            $id = $_COOKIE['id'];
+            //get $arr here.
+            $sql = 'select course.courseId as courseid,course.name as coursename,courseselection_stu.assessment as assessment
+                    from courseselection_stu , course
+                    where courseselection_stu.studentId='.$id.' and course.courseId=courseselection_stu.courseId';
+            //$sql ='select studentId as courseid from student';
+            $arr = DB::query(Database::SELECT, $sql)->execute()->as_array();
+            echo json_encode($arr);//建议这样写,避免0或其他情况.
+            exit;
+        }
+    }
+
+    public function action_submitapi(){
+        //if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            $data = $this->request->post();
+            $data['courseId'];
+            $id = $_COOKIE['id'];
+            DB::query(Database::UPDATE, 'update courseselection_stu
+                  set assessment="'.$data['text'].'
+                  " where studentId='.$id.' and courseId='.$data['courseId'])->execute();
+            exit;
+        }
+    }
 }

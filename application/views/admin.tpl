@@ -33,6 +33,7 @@
             </li>
             <li><a href="/admin/Adminteacher">教师信息管理</a></li>
             <li><a href="/admin/Adminstudent">学生信息管理</a></li>
+            <li><a href="/admin/Adminscore">成绩管理</a></li>
 
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">

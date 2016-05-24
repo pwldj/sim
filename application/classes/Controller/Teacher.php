@@ -20,4 +20,7 @@ class Controller_Teacher extends Controller_Template{
     public function action_teacherinfomodify(){
         $this->template->content = View::factory('teacher/teacherInfoModify.tpl');
     }
+    public function action_teacherscore(){
+        $this->template->content = View::factory('teacher/TeacherScore.tpl');
+    }
 }
