@@ -8,11 +8,21 @@
 class Controller_login extends Controller_Template{
     public $template = 'login.tpl';
     public function action_index(){
+//        $this->template->test = View::factory('student.tpl');
+    }
 
+
+    public function action_getmessageapi(){
+        $this -> auto_render = FALSE;
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            $mess = DB::query(Database::SELECT,"select * from message where audiences = 0 and useful = 1" )->execute()->as_array();
+            echo json_encode($mess);//建议这样写,避免0或其他情况.
+            exit;
+        }
     }
-    public function action_filter(){
-        
-    }
+
+
     public function action_loginapi(){
         $this -> auto_render = FALSE;
         //if ($this -> request -> is_ajax()) //判断是否为ajax请求
@@ -27,4 +37,5 @@ class Controller_login extends Controller_Template{
 
         }
     }
+    
 }

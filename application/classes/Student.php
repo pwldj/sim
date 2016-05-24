@@ -7,7 +7,12 @@
  */
 class Student{
     private static $table = 'student';
+    public static function getStudentById()    //根据Id获取学生信息
+    {
+        $data = $_COOKIE['id'];
+        return BaseClass::getStudentById($data);
+    }
     public static function getAllStudent(){
-        return BaseClass::getstudent(self::$table);
+        return BaseClass::getAllStu();
     }
 }

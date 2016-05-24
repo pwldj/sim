@@ -11,6 +11,7 @@
     <script src="../../resource/bootstrap/js/bootstrap.min.js"></script>
     <script src="../../resource/bootstrap-table-master/src/bootstrap-table.js"></script>
     <script src="../../resource/bootstrap-table-master/src/extensions/export/bootstrap-table-export.js"></script>
+    <script src="//rawgit.com/hhurz/tableExport.jquery.plugin/master/tableExport.js"></script>
 </head>
 <body background="../../resource/image/background.jpg">
 <nav class="navbar navbar-inverse" role="navigation">
@@ -21,18 +22,13 @@
         <ul class="nav navbar-nav">
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                    选课
+                    课程管理
                     <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
-                    <li><a href="/student/selectcourse">已选课程</a></li>
-                    <li><a href="/student/profession">专业选课</a></li>
-                    <li><a href="/student/general">校选课</a></li>
-                    <li><a href="/student/pe">体育选课</a></li>
-                    <li class="divider"></li>
-                    <li><a href="/student/deletecourse">退选</a></li>
-                    <li class="divider"></li>
-                    <li><a href="/student/coursetable">查看课程表</a></li>
+                    <li><a href="/admin/manIn">手动录入</a></li>
+                    <li><a href="/admin/publishcourse">发布课程</a></li>
+                    <li><a href="/admin/statement">生成报表</a></li>
                 </ul>
             </li>
             <li><a href="#">SVN</a></li>
@@ -53,15 +49,13 @@
             </li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
-            <{$value=Student::getStudentById()}>
+            <{$value=admin::getAdminById()}>
             <li class="dropdown" >
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     <{$value[0]['name']}>
                 </a>
                 <ul class="dropdown-menu">
-                    <li><a href="#"><{$value[0]['studentId']}></a></li>
-                    <li class="divider"></li>
-                    <li><a href="#"><{$value[0]['class']}>班</a></li>
+                    <li><a href="#"><{$value[0]['adminId']}></a></li>
                 </ul>
             </li>
             <li>
