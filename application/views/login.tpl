@@ -19,6 +19,8 @@
     </style>
 </head>
 <body>
+
+
 <div id="loginModal" class="modal show">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -46,12 +48,33 @@
                     </div>
                 </form>
             </div>
-            <div class="modal-footer">
+            <div class="modal-footer"  style=" white-space:normal; word-break:break-all; word-wrap:break-word;">
+                <p id="message">
+                </p>
             </div>
         </div>
     </div>
 </div>
 <script>
+    $(function () {
+        $.ajax({
+            url:"/login/getmessageapi",
+            success:success_mess,
+            error:error_mess
+        });
+    });
+    function success_mess(mess) {
+        mess = $.parseJSON(mess);
+        var i=0;
+        mytime = setInterval(function(){showme()}, 2000);
+        function showme() {
+            $('#message').text(mess[i++].text);
+            i=i%mess.length;
+        }
+    }
+    function error_mess() {
+        alert("获取通知信息失败");
+    }
     function login() {
         var data ={
             id:document.getElementById('id').value,
@@ -65,11 +88,23 @@
             success: successCallback,
             error: errorCallback
         });
-        function successCallback(json){
-            alert(json.toString());
+        function successCallback(res){
+            if(res=="success") {
+                document.cookie="id="+data.id;
+                if(data.person == "student"){
+                    window.location.href = 'student';
+                }
+                else if(data.person=="teacher"){
+                    window.location.href = 'teacher';
+                }
+                else{
+                    window.location.href = 'admin';
+                }
+            }
+            else alert('登录失败');
         }
         function errorCallback(){
-            alert(data);
+            alert('登录失败');
         }
     }
 

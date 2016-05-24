@@ -148,9 +148,9 @@ Cookie::$salt = 'foobar';
  * defaults for the URI.
  */
 
-Route::set('default', '(<controller>(/<action>))',array('controller'=>'(student|login)'))
+Route::set('default', '(<controller>(/<action>))',array('controller'=>'(student|login|studentapi|teacher|teacherapi|admin|adminapi)'))
 	->defaults(array(
-		'controller' => 'student',
+		'controller' => 'login',
 		'action'     => 'index',
 	));
 
