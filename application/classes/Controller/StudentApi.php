@@ -31,7 +31,6 @@ class Controller_StudentApi extends Controller {
     }
 
     public function action_selectcourse(){
-        $this -> auto_render = FALSE;
         if ($this -> request -> is_ajax()) //判断是否为ajax请求
         {
             $data = $this->request->post();
@@ -72,7 +71,6 @@ class Controller_StudentApi extends Controller {
     }
 
     public function action_deletecoursebystuid(){
-        $this -> auto_render = FALSE;
         if ($this -> request -> is_ajax()) //判断是否为ajax请求
         {
             $data = $this->request->post();
@@ -88,4 +86,27 @@ class Controller_StudentApi extends Controller {
     {
         return BaseClass::getCourseTable();
     }
+
+    public function action_getStudentById()
+    {
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            $data = $this->request->post();
+            $arr = studentInfoModify::getStudentById($data['data']);
+            echo json_encode($arr);
+        }
+        exit;
+    }
+    public function action_updatestudent()
+    {
+        $this -> auto_render = FALSE;
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            $data = $this->request->post();
+            $affectNumber = studentInfoModify::update_student($data);
+            echo json_encode($affectNumber);
+        }
+        exit;
+    }
+    
 }

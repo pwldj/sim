@@ -31,7 +31,9 @@
                     <li><a href="/admin/statement">生成报表</a></li>
                 </ul>
             </li>
-            <li><a href="#">SVN</a></li>
+            <li><a href="/admin/Adminteacher">教师信息管理</a></li>
+            <li><a href="/admin/Adminstudent">学生信息管理</a></li>
+
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     Java
@@ -59,7 +61,7 @@
                 </ul>
             </li>
             <li>
-                <a href="../login">退出</a>
+                <a href="/login">退出</a>
             </li>
             <li><p>"   "</p></li>
         </ul>

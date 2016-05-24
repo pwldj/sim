@@ -17,4 +17,7 @@ class Controller_Teacher extends Controller_Template{
     public function action_studentList(){
         $this->template->content = View::factory('teacher/studentList.tpl');
     }
+    public function action_teacherinfomodify(){
+        $this->template->content = View::factory('teacher/teacherInfoModify.tpl');
+    }
 }

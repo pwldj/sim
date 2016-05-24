@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
@@ -20,6 +20,7 @@
     <div>
         <ul class="nav navbar-nav">
             <li><a href="/teacher/courseselect">选课查询</a></li>
+            <li><a href="/teacher/teacherinfomodify">个人信息</a></li>
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     Java
@@ -47,7 +48,7 @@
                 </ul>
             </li>
             <li>
-                <a href="../login">退出</a>
+                <a href="/login">退出</a>
             </li>
             <li><p>"   "</p></li>
         </ul>
@@ -61,5 +62,6 @@
         <p style="text-align: center">&copy; 北京化工大学 计科1306 选课小组;(+86) 13260163193</p>
     </div>
 </footer>
+
 </body>
 </html>

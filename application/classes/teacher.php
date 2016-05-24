@@ -19,4 +19,10 @@ class Teacher{
     {
         return BaseClass::getallTea();
     }
+    public static function teacherInfoModifygetteacher($data){
+        return BaseClass::modifygetteacherById($data);
+    }
+    public static function teacherInfoModifyupdateteacher($data){
+        return BaseClass::modifyupdateTeacher($data);
+    }
 }

@@ -25,4 +25,7 @@ class Controller_student extends Controller_Template {
     public function action_coursetable(){     //专业选课
         $this->template->content = View::factory('student/courseTable.tpl');
     }
+    public function action_studentinfomodify(){     //专业选课
+        $this->template->content = View::factory('student/studentinfoModify.tpl');
+    }
 } // End Welcome

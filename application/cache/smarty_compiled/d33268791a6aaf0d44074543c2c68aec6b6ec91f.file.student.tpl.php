@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2016-05-23 10:09:45
+<?php /* Smarty version Smarty-3.1.18, created on 2016-05-24 04:52:24
          compiled from "D:\php\sim\application\views\student.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:290335732fcfa9c8bd7-56290660%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd33268791a6aaf0d44074543c2c68aec6b6ec91f' => 
     array (
       0 => 'D:\\php\\sim\\application\\views\\student.tpl',
-      1 => 1464016183,
+      1 => 1464083533,
       2 => 'file',
     ),
   ),
@@ -61,7 +61,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                     <li><a href="/student/coursetable">查看课程表</a></li>
                 </ul>
             </li>
-            <li><a href="#">SVN</a></li>
+            <li><a href="/student/studentinfomodify">个人信息</a></li>
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     Java
@@ -94,7 +94,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                 </ul>
             </li>
             <li>
-                <a href="../login">退出</a>
+                <a href="/login">退出</a>
             </li>
             <li><p>"   "</p></li>
         </ul>

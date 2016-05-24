@@ -35,7 +35,7 @@
                     <li><a href="/student/coursetable">查看课程表</a></li>
                 </ul>
             </li>
-            <li><a href="#">SVN</a></li>
+            <li><a href="/student/studentinfomodify">个人信息</a></li>
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     Java
@@ -65,7 +65,7 @@
                 </ul>
             </li>
             <li>
-                <a href="../login">退出</a>
+                <a href="/login">退出</a>
             </li>
             <li><p>"   "</p></li>
         </ul>

@@ -306,5 +306,100 @@ where student.majorId=major.majorId and major.collegeId=college.collegeId")->exe
         $query=DB::query(Database::SELECT,"select * from release_course where publish = 0")->execute()->as_array();
         return $query;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+    public static function modifygetteacherById($data){
+        $query = DB::query(Database::SELECT , 'select teacherId,password,teacher.name,sex,college.name AS  collegename,self_description from teacher , college WHERE teacher.collegeId=college.collegeId AND teacherId='.$data)->execute()->as_array();
+        return $query;
+    }
+
+    public static function modifyupdateTeacher($table){
+        //        $collegeid=DB::query(Database::SELECT , 'select collegeId from college where name='.$table['collegename'])->execute()->as_array();
+//        $query=DB::query(Database::UPDATE,'update teacher set  "name"='.$table['name'].',"password"='.$table['password'].',"sex"='.$table['sex'].',"self_description"='.$table['self_description'].',collegeId='.$collegeid.' where teacherId='.$table['teacherId'] )->execute()->as_array();
+        $strsql="update teacher set name='".$table['name']."',password='".$table['password']."',sex='".$table['sex']."',self_description='".$table['self_description']."',collegeId=(select collegeId from college where name='".$table['collegename']."') where teacherId=".$table['teacherId'];
+
+        //$strsql = "update teacher set name='孙永利',password='123456',sex='女',self_description='',collegeId=(select collegeId from college where name='信息科学与技术') where teacherId='2'";
+        $query=DB::query(Database::UPDATE, $strsql)->execute();
+        return $query;
+    }
+
+    public static function admingetallteacher($table){
+        $query = DB::query(Database::SELECT , 'select teacherId,password,teacher.name,sex,college.name AS  collegename,self_description from teacher , college WHERE teacher.collegeId=college.collegeId')->execute()->as_array();
+//        $query = DB::query(Database::SELECT , 'select * from '.$table)->execute()->as_array();
+        return $query;
+    }
+
+    public static function admingetallcollege($table){
+        $query=DB::query(Database::SELECT , 'select * from college')->execute()->as_array();
+        return $query;
+    }
+
+    public static function adminaddteacher($data){
+        $strsql="insert into teacher (name,password,sex,collegeId) value ('".$data['name']."','".$data['password']."','".$data['sex']."',(select collegeId from college where name='".$data['collegename']."'))";
+//        $strsql="insert into teacher (name,password,sex,collegeId) value ('史晟辉','123456','女',(select collegeId from college where name='信息科学与技术'))"; 
+        $query=DB::query(Database::INSERT, $strsql)->execute();
+        return $query;
+    }
+    public static function admindeleteteacherById($data){
+        $query=DB::query(Database::DELETE, 'delete from teacher where teacherId='.$data)->execute();
+//        $query=DB::query(Database::DELETE, 'delete from teacher where teacherId=26')->execute();
+        return $query;
+    }
+
+
+
+
+
+
+
+    public static function admingetmajor()
+    {
+        $query=DB::query(Database::SELECT,'select name from major')->execute()->as_array();
+        return $query;
+    }
+
+    public static function modifyupdate_student($data)
+    {
+        $query=DB::query(Database::UPDATE,'update student set student.name="'.$data['name'].'",password="'.$data['password'].'",sex ="'.$data['sex'].'",class="'.$data['class'].'",EnrollmentYear="'.$data['EnrollmentYear'].'",self_description="'.$data['self_description'].'",majorId=(select majorId from major where major.name="'.$data['majorName'].'") where studentId='.$data['studentId'])->execute();
+
+        return $query;
+    }
+
+    public static function admindelete_student($data)
+    {
+        $query=DB::query(Database::DELETE,'delete from student where studentId='.$data)->execute();
+//        $query=DB::query(Database::DELETE,'delete from student where studentId=2013014263')->execute();
+        return $query;
+    }
+
+    public static function adminadd_student($data)
+    {
+
+        $query=DB::query(Database::INSERT,'insert into student (name,password,sex,class,EnrollmentYear,self_description,majorId) VALUE ("'.$data['name'].'","'.$data['password'].'","'.$data['sex'].'","'.$data['sclass'].'","'.$data['EnrollmentYear'].'","'.$data['self_description'].'",(select majorId from major where name="'.$data['majorName'].'"))')->execute();
+        return $query;
+    }
+
+    public static function modifygetStudentById($data)
+    {
+        $query=DB::query(Database::SELECT,'select student.name,password,sex,class,EnrollmentYear,self_description,major.name as majorName from student,major where studentId='.$data.' and student.majorId=major.majorId')->execute()->as_array();
+        return $query;
+    }
+
+    public static function admingetstudent($table){
+        $query = DB::query(Database::SELECT , 'select studentId,student.name,password,sex,class,EnrollmentYear,self_description,major.name as majorName from student,major where student.majorId=major.majorId')->execute()->as_array();
+        return $query;
+    }
+    
+    
     
 }

@@ -15,10 +15,16 @@ class Controller_Admin extends Controller_Template
     public function action_manIn(){   //手动录入
         $this->template->content = View::factory('admin/manIn.tpl');
     }
-    public function action_statement(){   //手动录入
+    public function action_statement(){   
         $this->template->content = View::factory('admin/statement.tpl');
     }
-    public function action_publishcourse(){   //手动录入
+    public function action_publishcourse(){   
         $this->template->content = View::factory('admin/publishcourse.tpl');
+    }
+    public function action_adminteacher(){   
+        $this->template->content = View::factory('admin/Adminteacher.tpl');
+    }
+    public function action_adminstudent(){   
+        $this->template->content = View::factory('admin/AdminStudent.tpl');
     }
 }
