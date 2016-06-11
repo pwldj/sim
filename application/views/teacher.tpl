@@ -28,21 +28,7 @@
             <li><a href="/teacher/teacherinfomodify">个人信息</a></li>
             <li><a href="/teacher/teacherscore">成绩管理</a></li>
             <li><a href="/teacher/statement">上课时间查询</a></li>
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                    Java
-                    <b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu">
-                    <li><a href="#">jmeter</a></li>
-                    <li><a href="#">EJB</a></li>
-                    <li><a href="#">Jasper Report</a></li>
-                    <li class="divider"></li>
-                    <li><a href="#">分离的链接</a></li>
-                    <li class="divider"></li>
-                    <li><a href="#">另一个分离的链接</a></li>
-                </ul>
-            </li>
+            <li><a href="http://localhost:8080/teacherpoint">毕设管理</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
             <{$value=Teacher::getTeacherById()}>
@@ -62,13 +48,23 @@
     </div>
 </nav>
 
-<{$content}>
+<div class="container-fluid" style="background-color:rgba(255,255,255,0.5);">
+    <{$content}>
+</div>
 
 <footer class="footer">
     <div class="container">
         <p style="text-align: center">&copy; 北京化工大学 计科1306 选课小组;(+86) 13260163193</p>
     </div>
 </footer>
-
+<script>
+    $(function () {
+        $('#toolbar').find('select').change(function () {
+            $table.bootstrapTable('destroy').bootstrapTable({
+                exportDataType: $(this).val()
+            });
+        });
+    })
+</script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-<div class="container-fluid" style="background-color:rgba(255,255,255,0.5);">
+<div class="container-fluid" >
     <div class="row">
         <label for="college" class="col-lg-1 control-label" style="text-align:center" >学院</label>
         <div class="col-lg-2">

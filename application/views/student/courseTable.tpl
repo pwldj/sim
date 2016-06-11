@@ -1,4 +1,4 @@
-<div class="container" style="background-color:rgba(255,255,255,0.5);">
+<div class="container" >
   <div class="row-fluid">
     <div class="span12">
       <h3 align=center>

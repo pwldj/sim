@@ -71,12 +71,23 @@
     </div>
 </nav>
 
-<{$content}>
+<div class="container-fluid" style="background-color:rgba(255,255,255,0.5);">
+    <{$content}>
+</div>
 
 <footer class="footer">
     <div class="container">
         <p style="text-align: center">&copy; 北京化工大学 计科1306 选课小组;(+86) 13260163193</p>
     </div>
 </footer>
+<script>
+    $(function () {
+        $('#toolbar').find('select').change(function () {
+            $table.bootstrapTable('destroy').bootstrapTable({
+                exportDataType: $(this).val()
+            });
+        });
+    })
+</script>
 </body>
 </html>

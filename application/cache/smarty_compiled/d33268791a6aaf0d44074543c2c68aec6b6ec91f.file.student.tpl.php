@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2016-06-08 05:25:36
+<?php /* Smarty version Smarty-3.1.18, created on 2016-06-11 03:26:59
          compiled from "D:\php\sim\application\views\student.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:290335732fcfa9c8bd7-56290660%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd33268791a6aaf0d44074543c2c68aec6b6ec91f' => 
     array (
       0 => 'D:\\php\\sim\\application\\views\\student.tpl',
-      1 => 1465381532,
+      1 => 1465633617,
       2 => 'file',
     ),
   ),
@@ -37,8 +37,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     <script src="../../resource/bootstrap/js/bootstrap.min.js"></script>
     <script src="../../resource/bootstrap-table-master/src/bootstrap-table.js"></script>
     <script src="../../resource/bootstrap-table-master/src/extensions/export/bootstrap-table-export.js"></script>
+    <script src="//rawgit.com/hhurz/tableExport.jquery.plugin/master/tableExport.js"></script>
 </head>
 <body background="../../resource/image/background.jpg">
+
 <nav class="navbar navbar-inverse" role="navigation">
     <div class="navbar-header">
         <a class="navbar-brand" href="/student">教务管理</a>
@@ -65,22 +67,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
             <li><a href="/student/studentcourse">上课时间查询</a></li>
             <li><a href="/student/studentscore">成绩查询</a></li>
             <li><a href="/student/assesspage">编辑评价</a></li>
+            <li><a href="http://localhost:8080/demo">毕设管理</a></li>
 
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                    Java
-                    <b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu">
-                    <li><a href="#">jmeter</a></li>
-                    <li><a href="#">EJB</a></li>
-                    <li><a href="#">Jasper Report</a></li>
-                    <li class="divider"></li>
-                    <li><a href="#">分离的链接</a></li>
-                    <li class="divider"></li>
-                    <li><a href="#">另一个分离的链接</a></li>
-                </ul>
-            </li>
+
+
         </ul>
         <ul class="nav navbar-nav navbar-right">
             <?php $_smarty_tpl->tpl_vars['value'] = new Smarty_variable(Student::getStudentById(), null, 0);?>
@@ -104,14 +94,23 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         </ul>
     </div>
 </nav>
-
+<div class="container-fluid" style="background-color:rgba(255,255,255,0.5);">
 <?php echo $_smarty_tpl->tpl_vars['content']->value;?>
 
-
+</div>
 <footer class="footer">
     <div class="container">
-        <p style="text-align: center">&copy; 北京化工大学 计科1306 选课小组;(+86) 13260163193</p>
+        <p style="text-align: center">&copy; 北京化工大学 计科1306 选课小组;(+86) 18501925343</p>
     </div>
 </footer>
+<script>
+    $(function () {
+        $('#toolbar').find('select').change(function () {
+            $table.bootstrapTable('destroy').bootstrapTable({
+                exportDataType: $(this).val()
+            });
+        });
+    })
+</script>
 </body>
 </html><?php }} ?>

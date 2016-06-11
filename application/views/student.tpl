@@ -11,8 +11,10 @@
     <script src="../../resource/bootstrap/js/bootstrap.min.js"></script>
     <script src="../../resource/bootstrap-table-master/src/bootstrap-table.js"></script>
     <script src="../../resource/bootstrap-table-master/src/extensions/export/bootstrap-table-export.js"></script>
+    <script src="//rawgit.com/hhurz/tableExport.jquery.plugin/master/tableExport.js"></script>
 </head>
 <body background="../../resource/image/background.jpg">
+
 <nav class="navbar navbar-inverse" role="navigation">
     <div class="navbar-header">
         <a class="navbar-brand" href="/student">教务管理</a>
@@ -39,22 +41,10 @@
             <li><a href="/student/studentcourse">上课时间查询</a></li>
             <li><a href="/student/studentscore">成绩查询</a></li>
             <li><a href="/student/assesspage">编辑评价</a></li>
+            <li><a href="http://localhost:8080/demo">毕设管理</a></li>
 
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                    Java
-                    <b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu">
-                    <li><a href="#">jmeter</a></li>
-                    <li><a href="#">EJB</a></li>
-                    <li><a href="#">Jasper Report</a></li>
-                    <li class="divider"></li>
-                    <li><a href="#">分离的链接</a></li>
-                    <li class="divider"></li>
-                    <li><a href="#">另一个分离的链接</a></li>
-                </ul>
-            </li>
+
+
         </ul>
         <ul class="nav navbar-nav navbar-right">
             <{$value=Student::getStudentById()}>
@@ -75,13 +65,22 @@
         </ul>
     </div>
 </nav>
-
+<div class="container-fluid" style="background-color:rgba(255,255,255,0.5);">
 <{$content}>
-
+</div>
 <footer class="footer">
     <div class="container">
-        <p style="text-align: center">&copy; 北京化工大学 计科1306 选课小组;(+86) 13260163193</p>
+        <p style="text-align: center">&copy; 北京化工大学 计科1306 选课小组;(+86) 18501925343</p>
     </div>
 </footer>
+<script>
+    $(function () {
+        $('#toolbar').find('select').change(function () {
+            $table.bootstrapTable('destroy').bootstrapTable({
+                exportDataType: $(this).val()
+            });
+        });
+    })
+</script>
 </body>
 </html>

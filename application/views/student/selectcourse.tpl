@@ -1,5 +1,5 @@
 
-<div class="container-fluid" style="background-color:rgba(255,255,255,0.5);">
+<div class="container-fluid" >
     <div class="row-fluid">
         <div class="span12">
             <table
