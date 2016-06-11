@@ -60,7 +60,7 @@
       </tr>
       </thead>
       <tbody>
-      <{$valueA=teacher::getAllCourseByTeaId()}>
+      <{$valueA=Teacher::getAllCourseByTeaId()}>
       <{foreach from=$valueA item=tt}>
       <tr>
       <td><{$tt['courseid']}> </td>

@@ -468,4 +468,132 @@ where student.majorId=major.majorId and major.collegeId=college.collegeId")->exe
             ->execute();
     }
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    //q
+    public static function insert_q($data){
+        $query= DB::query(Database::INSERT,'insert into workout_course(weeknum,startsection,endsection,classroomid,courseid,startweek,endweek,occupationreason)
+            values('.$data['weeknum'].','.$data['startsection'].','.$data['endsection'].','.$data['classroomid'].','.$data['courseid'].','.$data['startweek'].','.$data['endweek'].',"'.$data['occupationreason'].'")')->execute();
+        return $query;
+    }
+
+    public  static  function getAllCourseByTeacherId_q()
+    {
+        $b=$_COOKIE['id'];
+        $sql=DB::query(Database::SELECT,"select workout_course.courseid,weeknum,startsection,endsection,startweek,endweek,Place as classname,course.testtime,course.credit,course.name,course.capacity,course.margin,course.campus,college.name as collegeId,course.property,course.classhour,course.direction,teacher.name as teachername
+from workout_course,classroom,course,courseselection_tea,teacher,college
+where classroomid=classroom.Id and course.courseId=workout_course.courseid
+and courseselection_tea.courseId=workout_course.courseid
+and teacher.teacherId=courseselection_tea.teacherId
+and course.collegeId=college.collegeId
+and workout_course.courseid in (select courseselection_tea.courseId from courseselection_tea where 
+courseselection_tea.teacherId=$b)")->execute()->as_array();
+        // $a[0]=$sql[0];
+        $k=0;
+        $x=0;
+        $i=0;
+        while($k<sizeof($sql))
+        {
+
+            if ($sql[$i]['courseid'] != -1) {
+                $a[$x] = $sql[$i];
+                $a[$x]['time']="周".$sql[$i]['weeknum'].','.$sql[$i]['startsection']."~".$sql[$i]['endsection']."节;";
+                $a[$x]['classname']=$sql[$i]['classname'].";";
+                $a[$x]['startend']="第".$sql[$i]['startweek']."~".$sql[$i]['endweek']."周;";
+                for ($j = $i + 1; $j < sizeof($sql); $j++) {
+                    if ($sql[$i]['courseid'] == $sql[$j]['courseid']) {
+                        $a[$x]['time']=$a[$x]['time']."周".$sql[$j]['weeknum'].','.$sql[$j]['startsection']."~".$sql[$j]['endsection']."节;";
+                        $a[$x]['classname']=$a[$x]['classname'].$sql[$j]['classname'].";";
+                        $a[$x]['startend']=$a[$x]['startend']."第".$sql[$j]['startweek']."~".$sql[$j]['endweek']."周;";
+                        $sql[$i]['courseid']=-1;
+                        $k++;
+                        $i=$j;
+                    }
+                }
+                $sql[$i]['courseid']=-1;
+                $k++;
+                $x++;
+                $i=0;
+            }
+            else{
+                $i++;
+            }
+
+        }
+        return $a;
+    }
+    public  static  function getAllCourseByStuId_q()
+    {
+        $b=$_COOKIE['id'];
+        $sql=DB::query(Database::SELECT,"select teacher.teacherId,workout_course.courseid,weeknum,startsection,endsection,startweek,endweek,Place as classname,course.testtime,course.credit,course.name,course.capacity,course.margin,course.campus,college.name as collegeId,course.property,course.classhour,course.direction,teacher.name as teachername
+from workout_course,classroom,course,courseselection_tea,teacher,college
+where classroomid=classroom.Id and course.courseId=workout_course.courseid
+and courseselection_tea.courseId=workout_course.courseid
+and teacher.teacherId=courseselection_tea.teacherId
+and course.collegeId=college.collegeId
+and workout_course.courseid in (select courseselection_stu.courseId from courseselection_stu where 
+courseselection_stu.studentId=$b)")->execute()->as_array();
+        for($i=0;$i<count($sql);$i++) {
+            $sql[$i]['classhour'] = "周".$sql[$i]['weeknum'].','.$sql[$i]['startsection']."~".$sql[$i]['endsection']."节;";
+        }
+        return $sql;
+    }
+    public  static  function getAllCourseTeacherId()
+    {
+        //$b=$_COOKIE['id'];
+        $sql=DB::query(Database::SELECT,"select teacher.teacherId, workout_course.courseid,weeknum,startsection,endsection,startweek,endweek,Place as classname,course.testtime,course.credit,course.name as name,course.capacity,course.margin,course.campus,college.name as collegeId,course.property,course.classhour,course.direction,teacher.name as teachername
+from workout_course,classroom,course,courseselection_tea,teacher,college
+where classroomid=classroom.Id and course.courseId=workout_course.courseid
+and courseselection_tea.courseId=workout_course.courseid
+and teacher.teacherId=courseselection_tea.teacherId
+and course.collegeId=college.collegeId")->execute()->as_array();
+        // $a[0]=$sql[0];
+        $k=0;
+        $x=0;
+        $i=0;
+        while($k<sizeof($sql))
+        {
+
+            if ($sql[$i]['courseid'] != -1) {
+                $a[$x] = $sql[$i];
+                $a[$x]['teacherid']=$sql[$i]['teacherId'];
+                $a[$x]['teachername']=$sql[$i]['teachername'];
+                $a[$x]['courseid']=$sql[$i]['courseid'];
+                $a[$x]['name']=$sql[$i]['name'];
+                $a[$x]['time']="周".$sql[$i]['weeknum'].','.$sql[$i]['startsection']."~".$sql[$i]['endsection']."节;";
+                $a[$x]['classname']=$sql[$i]['classname'].";";
+                $a[$x]['startend']="第".$sql[$i]['startweek']."~".$sql[$i]['endweek']."周;";
+                for ($j = $i + 1; $j < sizeof($sql); $j++) {
+                    if ($sql[$i]['courseid'] == $sql[$j]['courseid']) {
+                        $a[$x]['time']=$a[$x]['time']."周".$sql[$j]['weeknum'].','.$sql[$j]['startsection']."~".$sql[$j]['endsection']."节;";
+                        $a[$x]['classname']=$a[$x]['classname'].$sql[$j]['classname'].";";
+                        $a[$x]['startend']=$a[$x]['startend']."第".$sql[$j]['startweek']."~".$sql[$j]['endweek']."周;";
+                        $sql[$i]['courseid']=-1;
+                        $k++;
+                        $i=$j;
+                    }
+                }
+                $sql[$i]['courseid']=-1;
+                $k++;
+                $x++;
+                $i=0;
+            }
+            else{
+                $i++;
+            }
+
+        }
+        return $a;
+    }
 }

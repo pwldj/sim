@@ -6,7 +6,7 @@
  * Time: 12:30
  */
 
-class Controller_Admin extends Controller_Template
+class Controller_admin extends Controller_Template
 {
     public $template='admin.tpl';
     public function action_index(){
@@ -29,5 +29,14 @@ class Controller_Admin extends Controller_Template
     }
     public function action_adminscore(){
         $this->template->content = View::factory('admin/AdminScore.tpl');
+    }
+    public function action_message(){
+        $this->template->content = View::factory('admin/message.tpl');
+    }
+    public function action_course(){
+        $this->template->content = View::factory('admin/course.tpl');
+    }
+    public function action_classroombrower(){
+        $this->template->content = View::factory('admin/classroombrower.tpl');
     }
 }

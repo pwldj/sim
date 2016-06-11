@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.18, created on 2016-05-24 10:29:27
+<?php /* Smarty version Smarty-3.1.18, created on 2016-06-08 05:25:36
          compiled from "D:\php\sim\application\views\student.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:290335732fcfa9c8bd7-56290660%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd33268791a6aaf0d44074543c2c68aec6b6ec91f' => 
     array (
       0 => 'D:\\php\\sim\\application\\views\\student.tpl',
-      1 => 1464103758,
+      1 => 1465381532,
       2 => 'file',
     ),
   ),
@@ -62,6 +62,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                 </ul>
             </li>
             <li><a href="/student/studentinfomodify">个人信息</a></li>
+            <li><a href="/student/studentcourse">上课时间查询</a></li>
             <li><a href="/student/studentscore">成绩查询</a></li>
             <li><a href="/student/assesspage">编辑评价</a></li>
 

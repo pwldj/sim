@@ -139,7 +139,7 @@
             if (data1 == data2) {
                 var data = {
                         studentId: document.getElementById('in_studentId').value,
-                        password: document.getElementById('edit_password1').value,
+                        password: data1,
                         name: document.getElementById('in_name').value,
                         sex: document.getElementById('in_sex').value,
                         class: document.getElementById("in_class").value,

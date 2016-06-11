@@ -16,7 +16,7 @@
 <body background="../../resource/image/background.jpg">
 <nav class="navbar navbar-inverse" role="navigation">
     <div class="navbar-header">
-        <a class="navbar-brand" href="/student">教务管理</a>
+        <a class="navbar-brand" href="/admin">教务管理</a>
     </div>
     <div>
         <ul class="nav navbar-nav">
@@ -34,6 +34,8 @@
             <li><a href="/admin/Adminteacher">教师信息管理</a></li>
             <li><a href="/admin/Adminstudent">学生信息管理</a></li>
             <li><a href="/admin/Adminscore">成绩管理</a></li>
+            <li><a href="/admin/course">排课系统</a></li>
+            <li><a href="/admin/classroombrower">教室借用系统</a></li>
 
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -52,7 +54,7 @@
             </li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
-            <{$value=admin::getAdminById()}>
+            <{$value=Admin::getAdminById()}>
             <li class="dropdown" >
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     <{$value[0]['name']}>

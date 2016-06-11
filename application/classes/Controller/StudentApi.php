@@ -5,8 +5,8 @@
  * Date: 2016/5/23
  * Time: 15:00
  */
-class Controller_StudentApi extends Controller {
-    public function action_getCourseByStuId()          //学生已选课程
+class Controller_studentapi extends Controller {
+    public function action_getcoursebystuid()          //学生已选课程
     {
         if ($this -> request -> is_ajax()) //判断是否为ajax请求
         {
@@ -82,12 +82,9 @@ class Controller_StudentApi extends Controller {
         }
     }
 
-    public static function getCourseTable()
-    {
-        return BaseClass::getCourseTable();
-    }
+    
 
-    public function action_getStudentById()
+    public function action_getstudentbyid()
     {
         if ($this -> request -> is_ajax()) //判断是否为ajax请求
         {
@@ -158,7 +155,7 @@ class Controller_StudentApi extends Controller {
     }
 
     public function action_submitapi(){
-        //if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
         {
             $data = $this->request->post();
             $data['courseId'];
@@ -166,6 +163,17 @@ class Controller_StudentApi extends Controller {
             DB::query(Database::UPDATE, 'update courseselection_stu
                   set assessment="'.$data['text'].'
                   " where studentId='.$id.' and courseId='.$data['courseId'])->execute();
+            exit;
+        }
+    }
+
+    public  function  action_getcourseByStuId_q()
+    {
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            //get $arr here.
+            $arr = Studentcourse::getAllCourseByStuId();
+            echo json_encode($arr);//建议这样写,避免0或其他情况.
             exit;
         }
     }

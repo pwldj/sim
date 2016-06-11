@@ -36,6 +36,7 @@
                 </ul>
             </li>
             <li><a href="/student/studentinfomodify">个人信息</a></li>
+            <li><a href="/student/studentcourse">上课时间查询</a></li>
             <li><a href="/student/studentscore">成绩查询</a></li>
             <li><a href="/student/assesspage">编辑评价</a></li>
 

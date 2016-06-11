@@ -5,8 +5,8 @@
  * Date: 2016/5/23
  * Time: 15:00
  */
-class Controller_TeacherApi extends Controller{
-    public function action_teacherInfoModifygetteacher()
+class Controller_teacherapi extends Controller{
+    public function action_teacherinfomodifygetteacher()
     {
         if ($this -> request -> is_ajax()) //判断是否为ajax请求
         {
@@ -16,7 +16,7 @@ class Controller_TeacherApi extends Controller{
         }
         exit;
     }
-    public function action_teacherInfoModifyupdateteacher()
+    public function action_teacherinfomodifyupdateteacher()
     {
         if ($this -> request -> is_ajax()) //判断是否为ajax请求
         {
@@ -31,7 +31,7 @@ class Controller_TeacherApi extends Controller{
 
 
 //teacherscore
-    public function action_getStudent() {
+    public function action_getstudent() {
         $courseId = $_GET['courseId'];
         $this -> auto_render = FALSE;
         if ($this -> request -> is_ajax()) {
@@ -48,7 +48,7 @@ class Controller_TeacherApi extends Controller{
         }
     }
 
-    public function action_updateScore() {
+    public function action_updatescore() {
         $student = $_POST['student'];
         $student = json_decode($student);
         $courseId = $_POST['courseId'];
@@ -66,5 +66,27 @@ class Controller_TeacherApi extends Controller{
         echo $affectNum;
         $affectNum = 0;
         exit;
+    }
+
+    public  function  action_stateTea()
+    {
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            //get $arr here.
+            $arr = statement::getAllCourseByTeaId();
+            echo json_encode($arr);//建议这样写,避免0或其他情况.
+            exit;
+        }
+    }
+    public  function  action_Tea()
+    {
+        $this -> auto_render = FALSE;
+        if ($this -> request -> is_ajax()) //判断是否为ajax请求
+        {
+            //get $arr here.
+            $arr = query::getAllCourseTeaId();
+            echo json_encode($arr);//建议这样写,避免0或其他情况.
+            exit;
+        }
     }
 }

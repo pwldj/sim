@@ -46,5 +46,9 @@ class Course
     public  static  function  manSelCour(){
         return BaseClass::manSelCour();
     }
+
+    public static function insert($data){
+        return BaseClass::insert_q($data);
+    }
     
 }

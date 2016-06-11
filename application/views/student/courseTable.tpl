@@ -10,7 +10,7 @@
              data-toolbar="#toolbar"
              >
         <tbody>
-          <{$valueA = Controller_StudentApi::getCourseTable()}>
+          <{$valueA = BaseClass::getCourseTable()}>
           <{for $i=1;$i<8;$i++}>
           <{for $j=1;$j<14;$j++}>
           <{$b[$i][$j]=0}>

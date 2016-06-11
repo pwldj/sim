@@ -27,6 +27,7 @@
             <li><a href="/teacher/courseselect">选课查询</a></li>
             <li><a href="/teacher/teacherinfomodify">个人信息</a></li>
             <li><a href="/teacher/teacherscore">成绩管理</a></li>
+            <li><a href="/teacher/statement">上课时间查询</a></li>
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     Java
